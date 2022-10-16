@@ -1,0 +1,1 @@
+# device_oneplus_sm8150-BoardconfigCommon.mk
